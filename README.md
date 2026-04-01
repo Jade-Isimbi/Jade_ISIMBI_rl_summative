@@ -1,4 +1,4 @@
-# smart-care-rl
+# Reinforcement learning
 
 Reinforcement learning project for CKD renal-diet adherence support.
 
