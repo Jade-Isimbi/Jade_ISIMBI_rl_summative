@@ -1,0 +1,11 @@
+gymnasium
+numpy
+pygame
+stable-baselines3[extra]
+torch
+imageio
+pandas
+matplotlib
+fastapi
+uvicorn
+tensorboard

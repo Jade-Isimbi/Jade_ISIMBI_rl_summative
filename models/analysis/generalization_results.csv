@@ -1,0 +1,7 @@
+algorithm,scenario,mean_reward,mean_adherence
+DQN,digital_low_high_severity,-56.91225970305229,0.06833333333333333
+DQN,digital_high_strong_support,-11.005382899828813,0.19166666666666668
+PPO,digital_low_high_severity,-47.69235808188953,0.07
+PPO,digital_high_strong_support,-9.239580272029624,0.18666666666666668
+REINFORCE,digital_low_high_severity,-22.993505846708526,0.13609351432880845
+REINFORCE,digital_high_strong_support,-15.789143257819513,0.23643331842850507
