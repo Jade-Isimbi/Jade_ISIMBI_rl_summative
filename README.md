@@ -1,6 +1,10 @@
 # Reinforcement learning
 
-Reinforcement learning project for CKD renal-diet adherence support.
+## Introduction
+
+This project is a **reinforcement learning system** for helping people with **chronic kidney disease (CKD)** follow a **renal diet**. Each simulated day, an agent chooses an intervention—such as doing nothing, sending a diet reminder, suggesting a meal, sharing education, or escalating to a nurse or caregiver—to improve dietary adherence and keep nutrient-related risks (potassium, sodium, protein) under control, while limiting reminder fatigue .
+
+The environment is implemented in **Gymnasium**; policies are trained with **Stable-Baselines3** (DQN, PPO) and a custom **REINFORCE** implementation. Results, plots, and saved models live under `models/`.
 
 ## Project structure
 
